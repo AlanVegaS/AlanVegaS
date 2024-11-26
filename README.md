@@ -16,6 +16,7 @@ Hola, soy desarrollador con 6 años de experiencia, hábil en tecnologías web, 
 <a href="https://github.com/AlanVegaS/spotify-proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://spotify-alanvm.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
@@ -25,7 +26,7 @@ Hola, soy desarrollador con 6 años de experiencia, hábil en tecnologías web, 
 
 <td width="50%">
 <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Reto CSS</h3>
 <div align="center">                                       
 <br>
 <p>
